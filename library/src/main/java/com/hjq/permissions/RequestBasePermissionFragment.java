@@ -6,7 +6,7 @@ import android.app.Fragment;
 import android.app.FragmentManager;
 import android.content.Context;
 import android.content.pm.ActivityInfo;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  *    author : Android 轮子哥
